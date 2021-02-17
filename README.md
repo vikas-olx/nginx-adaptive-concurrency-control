@@ -159,10 +159,3 @@ This is triggered for each request, before it is sent to the upstream. Here we a
 ### log_by_lua_block 
 This is triggered for each request, after the upstream has responsed. Here we register the request leaving i.e. we decrement IFR and add request latency to the window. 
 
-# To Do
-
-### Integration Tests
-### Prometheus Metrics 
-### Benchmarks
-### Support Request Criticality 
-
