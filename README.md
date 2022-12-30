@@ -6,13 +6,19 @@ Chameleon is an NGINX Lua plugin for adaptive concurrency control in services. N
 
 I've written a series of blog posts on adaptive concurrency control and what problems does Chameleon solve.
 
-[https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-1.html](https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-1.html)
+[https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-1-1a7f76d2a1dd](https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-1-1a7f76d2a1dd)
 
-[https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-2.html](https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-2.html)
+[https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-2-6b8b594d4405](https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-2-6b8b594d4405)
 
-[https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-3.html](https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-3.html)
+[https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-3-d11990c58092](https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-3-d11990c58092)
 
-[https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-4.html](https://www.resilientsystems.io/2020/05/15/adaptive-concurrency-control-algorithms-part-4.html)
+[https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-4-de9211022ba6](https://vikas-kumar.medium.com/handling-overload-with-concurrency-control-and-load-shedding-part-4-de9211022ba6)
+
+Also see:
+
+[https://tech.olx.com/load-shedding-with-nginx-using-adaptive-concurrency-control-part-1-e59c7da6a6df?gi=56e65ac50e87](https://tech.olx.com/load-shedding-with-nginx-using-adaptive-concurrency-control-part-1-e59c7da6a6df?gi=56e65ac50e87)
+
+[https://tech.olx.com/load-shedding-with-nginx-using-adaptive-concurrency-control-part-2-d4e4ddb853be](https://tech.olx.com/load-shedding-with-nginx-using-adaptive-concurrency-control-part-2-d4e4ddb853be)
 
 # How To Use
 
